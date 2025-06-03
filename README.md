@@ -1,24 +1,17 @@
-# README
+# ToDo with Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Todo list implemented with Ruby on Rails. 
 
-Things you may want to cover:
+Things I have Learned:
 
-* Ruby version
+* Ruby
 
-* System dependencies
+* Rails
 
-* Configuration
+* Hotwire
 
 * Database creation
 
-* Database initialization
+* Turbo Frame
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Turbo Stream
